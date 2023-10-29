@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
-from . import local_settings
+# from . import local_settings
 import django_heroku
 import os
 import dj_database_url
